@@ -1,0 +1,16 @@
+div {
+    margin-top: 70px;
+    margin-left: 35%;
+}
+
+table {
+    border: 1px solid black;
+    
+}
+th {
+    border: 10px solid green;
+}
+
+td {
+    border: 10px solid green;
+}
